@@ -6,3 +6,5 @@ cadastrar_produto("Teclado", 10)
 cadastrar_produto("Mouse", 15)
 
 listar_produtos()
+
+print("\nSistema executado com sucesso!")
